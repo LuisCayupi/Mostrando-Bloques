@@ -1,0 +1,47 @@
+*d {
+    outline: 1px dotted red;
+}
+
+#conteiner {
+    width: 980px;
+    background-color: rgb(213, 210, 174);
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+#head {
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+}
+
+#head img {
+    display: inline;
+    width: 160px;
+    height: 90px;
+    background-color: white;
+}
+
+#head h1 {
+    display: inline;
+    width: 300px;
+}
+
+#content {
+    text-align: center;
+}
+
+#content img {
+    padding: 10px;
+    width: 160px;
+    height: 160px;
+    border: black 2px solid;
+}
+
+.rojo {
+    background-color: rgb(243, 104, 112);
+}
+
+.blanco {
+    box-shadow: inset 0 0 0 13px rgb(130, 180, 238);
+}
